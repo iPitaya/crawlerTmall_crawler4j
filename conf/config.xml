@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<message>
+	<db>
+		<dbip>192.168.3.17</dbip>
+		<port>3306</port>
+	</db>
+	<type>cp</type>
+	<picture>
+		<ispic>true</ispic>
+		<pathpic>data/crawl/image/test</pathpic>
+	</picture>
+	
+	<jdbcmysql>jdbc:mysql://192.168.3.17:3306/info_crawler</jdbcmysql>
+	<mysqluser>tongbao</mysqluser>
+	<mysqlpass>mainone%test123</mysqlpass>
+	<datas>domain|name|picture|place|contact|mobile|telephone|email|address|summry|website|price|brands|company</datas>
+	<data>companyid|del|docnum|username|title|content|comparti|city|province|rdate|memlevel|sdate|edate|state|udate|size|web|web1|anchorweb|url|operation|logo|tradeid|industryid|keyword|poslong|poslati|telphone|mobile|address|hadaddr|license|capital|established|volume|email|postcode|fax|contact|siteurl|site</data>
+	<filterfile>conf/test_filter.txt</filterfile>
+	
+</message>

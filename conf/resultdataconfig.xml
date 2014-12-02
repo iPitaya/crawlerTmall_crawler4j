@@ -1,0 +1,11 @@
+<message>
+	<jdbcmysql>jdbc:mysql://192.168.3.17:3306/info_crawler</jdbcmysql>
+	<mysqltable>dataresult</mysqltable>
+	<mysqluser>tongbao</mysqluser>
+	<mysqlpass>mainone%test123</mysqlpass>
+	<mongoip>192.168.3.182</mongoip>
+	<mongoport>30000</mongoport>
+	<mongodatabase>crawler_wrl</mongodatabase>
+	<mongotable>test1</mongotable>
+	<redisipport>192.168.3.205:6379</redisipport>
+</message>

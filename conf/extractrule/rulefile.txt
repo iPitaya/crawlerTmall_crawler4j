@@ -1,0 +1,7 @@
+domain:item.taobao.com/item
+table://*[@id="attributes"]/ul/li
+simple:title://*[@id="J_Title"]/h3
+simple:price://*[@id="J_StrPrice"]
+innerhtml://*[@id="J_DivItemDesc"]
+photo://*[@id="J_UlThumb"]/li/div/a/img
+!!

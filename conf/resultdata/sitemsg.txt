@@ -1,0 +1,17 @@
+!!
+domain:1688.com
+siteurl:http://www.1688.com
+site:阿里巴巴
+!!
+domain:gongchang.com
+siteurl:http://ch.gongchang.com
+site:世界工厂网
+!!
+domain:hc360.com
+siteurl:http://www.hc360.com
+site:慧聪网
+!!
+domain:makepolo.com
+siteurl:http://china.makepolo.com
+site:马可波罗网
+!!

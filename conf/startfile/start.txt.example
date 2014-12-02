@@ -1,0 +1,10 @@
+keytype|http://www.abc.html/sss/dd(1,100)/dd[key]|conf/startfile/key.txt
+list|http://www.abc.html/sss/dd(1,10)/dd[key]
+url|http://seawind2009.cn.gongchang.com/about.html
+
+
+url|http://seawind2009.cn.gongchang.com/about.html
+url|http://aobeisi.b2b.hc360.com/shop/show.html
+url|http://shop1384880363335.1688.com/page/creditdetail.htm
+keytype|http://s.hc360.com/company/[key].html|conf/startfile/key.txt
+listkeytype|http://company.ch.gongchang.com/s-[key].html?page=(1,100)|conf/startfile/key.txt
